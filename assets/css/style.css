@@ -224,24 +224,3 @@ input[type=submit] {
     padding: 10px 30px;
     cursor: pointer;
 }
-
-@media screen and (max-width: 768px) {
-    /* body bg color will be #333 */
-    #main-content {
-        background: red;
-        width: 200px
-    }
-    #side-content {
-        width: 269px;
-    }
-}
-
-@media screen and (max-width: 468px) {
-    /* The body's bg color will be #333 */
-    #main-content {
-        background: blue;
-        width: 100px;
-        float: none;
-        
-    }
-}
