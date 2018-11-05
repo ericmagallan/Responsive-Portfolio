@@ -226,7 +226,7 @@ input[type=submit] {
 }
 
 /* Media queries. This section will house the responsive portion of the website connecting back with the different identifiers and sections from contact, portfolio and index.
-FINISH ASAP */
+It will reference to font size changes, and image size changes mostly. FINISH ASAP */
 
 @media screen and (max-width: 980px) {
 
