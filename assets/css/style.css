@@ -225,7 +225,7 @@ input[type=submit] {
     cursor: pointer;
 }
 
-/* Media queries. This section will house the responsive portion of the website connecting back with the rows/cols.
+/* Media queries. This section will house the responsive portion of the website connecting back with the different identifiers and sections from contact, portfolio and index.
 FINISH ASAP */
 
 @media screen and (max-width: 980px) {
