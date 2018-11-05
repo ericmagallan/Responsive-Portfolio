@@ -225,6 +225,8 @@ input[type=submit] {
     cursor: pointer;
 }
 
+/* Media queries. This section will house the responsive portion of the website connecting back with the rows/cols */
+
 @media screen and (max-width: 980px) {
 
 max-width: 980px;
